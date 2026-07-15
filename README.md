@@ -286,3 +286,9 @@ curl http://localhost:8000/trips \
 Full endpoint documentation and curl examples are in the [TripJournalAPI README](../TripJournalAPI/README.md).
 
 Swagger UI: [http://localhost:8000/docs](http://localhost:8000/docs)
+
+---
+
+## Acknowledgements
+
+I would like to acknowledge the use of modern AI-powered developer tools throughout the creation of this project. These tools significantly enhanced my learning experience by acting as a collaborative pair-programmer. They provided invaluable assistance in refining Swift syntax, troubleshooting logic errors, and perfecting the code structure and documentation, ultimately enabling a more efficient and rigorous development workflow.
