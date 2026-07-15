@@ -14,6 +14,7 @@ An iOS travel journal app that connects to the [Travel Journey API](../TripJourn
 6. [Rubric Compliance Report](#rubric-compliance-report)
 7. [Architecture Overview](#architecture-overview)
 8. [Troubleshooting](#troubleshooting)
+9. [Acknowledgements](#acknowledgements)
 
 ---
 
